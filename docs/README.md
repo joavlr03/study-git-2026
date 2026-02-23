@@ -9,6 +9,7 @@ Pasta de documentação do projeto
 * item 3
 
 
+### Instruções para commit no github
 
 labsfiap@L1710MICRO34 MINGW64 /d/projetos/study-git-2026
 $ pwd
@@ -72,7 +73,7 @@ Changes to be committed:
 labsfiap@L1710MICRO34 MINGW64 /d/projetos/study-git-2026 (master)
 $ git commit -m "docs: Primeiro commit"
 [master (root-commit) 6015e70] docs: Primeiro commit
- Committer: Laboratório FIAP <labsfiap@fiap.com.br>
+ 
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
 You can suppress this message by setting them explicitly:
@@ -95,7 +96,7 @@ labsfiap@L1710MICRO34 MINGW64 /d/projetos/study-git-2026 (master)
 $ git config --global user.name "joavlr03"
 
 labsfiap@L1710MICRO34 MINGW64 /d/projetos/study-git-2026 (master)
-$ git config --global user.email "joaovcolor119@gmail.com"
+$ git config --global user.email "seuemailexemplo@gmail.com"
 
 labsfiap@L1710MICRO34 MINGW64 /d/projetos/study-git-2026 (master)
 $ git commit -m "docs: Primeiro commit"
